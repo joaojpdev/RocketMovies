@@ -17,7 +17,7 @@ export function New() {
       <main>
         <Form>
           <header>
-            <Link to="/">
+            <Link to="/home">
             Voltar
             </Link>
             <h1>Novo filme</h1>

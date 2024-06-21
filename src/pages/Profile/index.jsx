@@ -11,7 +11,7 @@ export function Profile(){
   return(
     <Container>
       <header>
-        <Link to="/">
+        <Link to="/home">
           <FiArrowLeft />
           <p>Voltar</p>
         </Link>

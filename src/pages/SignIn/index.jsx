@@ -28,7 +28,7 @@ export function SignIn() {
           icon={FiLock}
         /> 
 
-        <Button title="Entrar" />
+        <Link to="/home" >Entrar </Link>
 
         <Link to="/register">Criar conta</Link>
       </Form>

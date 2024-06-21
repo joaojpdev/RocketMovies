@@ -14,7 +14,7 @@ export function Details() {
 
       <main>
         <Content>
-          <a href="/">
+          <a href="/home">
             <FiArrowLeft />
             Voltar
           </a>  
